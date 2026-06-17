@@ -1,4 +1,4 @@
-# valis_reg
+# Valis_X
 
 A (over-)simplified, in-memory refactoring of [VALIS](https://github.com/MathOnco/valis) — the Virtual Alignment of pathoLogy Image Series pipeline — originally motivated by the need to deploy registration across different platforms that decouples the I/O and computation part.
 
