@@ -1,0 +1,30 @@
+# AI planning notes
+claude/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Lock file — regenerate per environment
+requirements.lock.txt
+mem_profile.txt
+*.png
+*.tiff
